@@ -1,4 +1,4 @@
-<img align="centre" alt="DevOps" width="1500" height="600" src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif">
+<img align="centre" alt="DevOps" width="1500" height="400" src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif">
 <h1 align="center">Hi 👋, I'm Vasil Shaikh</h1>
 <h3 align="center">I am a DevOps Engineer from India.</h3>
 
