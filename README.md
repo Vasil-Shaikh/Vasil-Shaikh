@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasil-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="vasil-shaikh" /> </p>
 <img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif" >
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: vasilshaikh24@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -15,7 +15,9 @@
 <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Tomcat" width="40" height="40"/> </a>
 <a href="https://www.splunk.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="Splunk" width="40" height="40"/> </a>
 <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a>
-<a href="https://www.wordpress.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Terraform" width="40" height="40"/> </a>
+<a href="https://www.wordpress.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Terraform" width="40" height="40"/> </a><a href="https://ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a>
+<a href="https://puppet.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" alt="Ansible" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Kafka" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> </a>
 </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
